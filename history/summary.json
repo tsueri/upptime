@@ -18,6 +18,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "Online Document Editor",
+    "url": "$URL_OFFICE",
+    "icon": "/assets/paper.png",
+    "slug": "online-document-editor",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Mailserver",
     "url": "email.campa.tools",
     "icon": "/assets/e-mail.png",
@@ -46,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 406,
-    "timeDay": 406,
-    "timeWeek": 406,
-    "timeMonth": 406,
-    "timeYear": 406,
+    "time": 404,
+    "timeDay": 404,
+    "timeWeek": 404,
+    "timeMonth": 404,
+    "timeYear": 404,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 116,
-    "timeDay": 116,
-    "timeWeek": 116,
-    "timeMonth": 116,
-    "timeYear": 116,
+    "time": 111,
+    "timeDay": 111,
+    "timeWeek": 111,
+    "timeMonth": 111,
+    "timeYear": 111,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 112,
-    "timeDay": 112,
-    "timeWeek": 112,
-    "timeMonth": 112,
-    "timeYear": 112,
+    "time": 113,
+    "timeDay": 113,
+    "timeWeek": 113,
+    "timeMonth": 113,
+    "timeYear": 113,
     "dailyMinutesDown": {}
   }
 ]
