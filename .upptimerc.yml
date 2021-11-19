@@ -4,11 +4,13 @@ repo: upptime
 sites:
   - name: tsueri.cloud
     url: https://tsueri.cloud
+    icon: /assets/cloud.png
   - name: Mailserver
     url: email.campa.tools
-    icon: /assets/mail.png
+    icon: /assets/e-mail.png
     check: "tcp-ping"
-    port: 465,25
+    port: 25
+    port: 993
   - name: Webserver
     url: https://web.campa.tools
     icon: /assets/globe.png
@@ -16,10 +18,12 @@ sites:
     check: "tcp-ping"
     port: 53
     url: ns1.campa.tools
+    icon: compass.png
   - name: ns2.campa.tools
     check: "tcp-ping"
     port: 53
     url: ns2.campa.tools
+    icon: compass.png
 status-website:
   cname: status.campa.tools
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
