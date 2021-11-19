@@ -26,8 +26,6 @@ sites:
     port: 53
     url: ns2.campa.tools
     icon: https://raw.githubusercontent.com/tsueri/upptime/master/assets/compass.png
-assignees:
-  - tsueri
 status-website:
   cname: status.campa.tools
   logoUrl: https://raw.githubusercontent.com/tsueri/upptime/master/assets/logo-tsueri-grey.svg
