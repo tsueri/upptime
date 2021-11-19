@@ -10,7 +10,6 @@ sites:
     icon: /assets/e-mail.png
     check: "tcp-ping"
     port: 25
-    port: 993
   - name: Webserver
     url: https://web.campa.tools
     icon: /assets/globe.png
