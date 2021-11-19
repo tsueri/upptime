@@ -31,7 +31,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/tsueri/upptime/master/assets/logo-tsueri-grey.svg
   name: Statuspage by tsueri
   introTitle: "Check the status of all **campa.tools** Services."
-  introMessage: "Updates to unplanned Downtime [can be found here](https://github.com/tsueri/upptime/issues)."
+  introMessage: "Updates to unplanned downtime [can be found here](https://github.com/tsueri/upptime/issues)."
   navbar:
     - title: Status
       href: /
