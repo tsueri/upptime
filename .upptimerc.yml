@@ -29,11 +29,11 @@ sites:
 status-website:
   cname: status.campa.tools
   logoUrl: https://raw.githubusercontent.com/tsueri/upptime/master/assets/logo-tsueri-grey.svg
-  name: Status
+  name: Statuspage by tsueri
   introTitle: "Check the status of all **campa.tools** Services."
   introMessage: "Updates to unplanned Downtime [can be found here](https://github.com/tsueri/upptime/issues)."
   navbar:
-    - title: Statuspage
+    - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
