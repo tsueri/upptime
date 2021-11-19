@@ -5,6 +5,9 @@ sites:
   - name: tsueri.cloud
     url: https://tsueri.cloud
     icon: /assets/cloud.png
+  - name: Online Document Editor
+    url: $URL_OFFICE
+    icon: /assets/paper.png
   - name: Mailserver
     url: email.campa.tools
     icon: /assets/e-mail.png
