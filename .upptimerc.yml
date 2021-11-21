@@ -26,7 +26,7 @@ sites:
     port: 53
     url: ns2.campa.tools
     icon: https://raw.githubusercontent.com/tsueri/upptime/master/assets/compass.png
-  - name Krichgemeinde Bönigen
+  - name: Krichgemeinde Bönigen
     url: https://boenigen.campa.tools
     icon: https://cdn-icons-png.flaticon.com/512/89/89013.png
 status-website:
