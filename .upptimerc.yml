@@ -7,6 +7,7 @@ sites:
     icon: https://raw.githubusercontent.com/tsueri/upptime/master/assets/cloud.png
   - name: Online Document Editor
     url: $URL_OFFICE
+    __dangerous__body_down: "false"
     icon: https://raw.githubusercontent.com/tsueri/upptime/master/assets/paper.png
   - name: Mailserver
     url: email.campa.tools
@@ -29,6 +30,7 @@ sites:
   - name: Krichgemeinde Bönigen
     url: https://boenigen.campa.tools
     icon: https://cdn-icons-png.flaticon.com/512/89/89013.png
+
 status-website:
   cname: status.campa.tools
   logoUrl: https://raw.githubusercontent.com/tsueri/upptime/master/assets/logo-tsueri-grey.svg
