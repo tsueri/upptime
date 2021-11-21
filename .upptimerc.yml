@@ -30,6 +30,10 @@ sites:
   - name: Krichgemeinde Bönigen
     url: https://boenigen.campa.tools
     icon: https://cdn-icons-png.flaticon.com/512/89/89013.png
+  - name: TS
+    url: $URL_TS
+    check: "tcp-ping"
+    port: 3389
 
 status-website:
   cname: status.campa.tools
