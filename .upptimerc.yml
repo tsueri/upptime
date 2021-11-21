@@ -7,7 +7,7 @@ sites:
     icon: https://raw.githubusercontent.com/tsueri/upptime/master/assets/cloud.png
   - name: Online Document Editor
     url: $URL_OFFICE
-    __dangerous__body_down: "false"
+    __dangerous__body_down: "true"
     icon: https://raw.githubusercontent.com/tsueri/upptime/master/assets/paper.png
   - name: Mailserver
     url: email.campa.tools
