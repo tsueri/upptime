@@ -17,15 +17,15 @@ sites:
   - name: Webserver
     url: https://web.campa.tools
     icon: https://raw.githubusercontent.com/tsueri/upptime/master/assets/globe.png
-  - name: ns1.campa.tools
+  - name: DNS 1
     check: "tcp-ping"
     port: 53
-    url: ns1.campa.tools
+    url: $URL_DNS1
     icon: https://raw.githubusercontent.com/tsueri/upptime/master/assets/compass.png
-  - name: ns2.campa.tools
+  - name: DNS 2
     check: "tcp-ping"
-    port: 54
-    url: ns2.campa.tools
+    port: 53
+    url: $URL_DNS2
     icon: https://raw.githubusercontent.com/tsueri/upptime/master/assets/compass.png
 status-website:
   cname: status.campa.tools
