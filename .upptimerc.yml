@@ -24,7 +24,7 @@ sites:
     icon: https://raw.githubusercontent.com/tsueri/upptime/master/assets/compass.png
   - name: ns2.campa.tools
     check: "tcp-ping"
-    port: 53
+    port: 54
     url: ns2.campa.tools
     icon: https://raw.githubusercontent.com/tsueri/upptime/master/assets/compass.png
 status-website:
