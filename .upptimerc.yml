@@ -39,6 +39,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  css: "img.svelte-a08hsz { display: none; }"
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
