@@ -5,19 +5,17 @@
     "icon": "https://raw.githubusercontent.com/tsueri/upptime/master/assets/cloud.png",
     "slug": "tsueri-cloud",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 944,
     "timeDay": 1813,
     "timeWeek": 944,
     "timeMonth": 944,
     "timeYear": 944,
-    "dailyMinutesDown": {
-      "2021-11-25": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Online Document Editor",
@@ -25,19 +23,17 @@
     "icon": "https://raw.githubusercontent.com/tsueri/upptime/master/assets/paper.png",
     "slug": "online-document-editor",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 727,
     "timeDay": 779,
     "timeWeek": 727,
     "timeMonth": 727,
     "timeYear": 727,
-    "dailyMinutesDown": {
-      "2021-11-25": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mailserver",
@@ -62,9 +58,9 @@
     "url": "https://web.campa.tools",
     "icon": "https://raw.githubusercontent.com/tsueri/upptime/master/assets/globe.png",
     "slug": "webserver",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,7 +69,9 @@
     "timeWeek": 601,
     "timeMonth": 601,
     "timeYear": 601,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-25": 0
+    }
   },
   {
     "name": "DNS 1",
