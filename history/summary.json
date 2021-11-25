@@ -4,27 +4,29 @@
     "url": "https://tsueri.cloud",
     "icon": "https://raw.githubusercontent.com/tsueri/upptime/master/assets/cloud.png",
     "slug": "tsueri-cloud",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 884,
     "timeDay": 640,
     "timeWeek": 884,
     "timeMonth": 884,
     "timeYear": 884,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-25": 1
+    }
   },
   {
     "name": "Online Document Editor",
     "url": "$URL_OFFICE",
     "icon": "https://raw.githubusercontent.com/tsueri/upptime/master/assets/paper.png",
     "slug": "online-document-editor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 716,
     "timeMonth": 716,
     "timeYear": 716,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-25": 0
+    }
   },
   {
     "name": "Mailserver",
