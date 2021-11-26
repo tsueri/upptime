@@ -4,19 +4,19 @@
     "url": "https://tsueri.cloud",
     "icon": "https://raw.githubusercontent.com/tsueri/upptime/master/assets/cloud.png",
     "slug": "tsueri-cloud",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 946,
-    "timeDay": 1010,
-    "timeWeek": 946,
-    "timeMonth": 946,
-    "timeYear": 946,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 948,
+    "timeDay": 1013,
+    "timeWeek": 948,
+    "timeMonth": 948,
+    "timeYear": 948,
     "dailyMinutesDown": {
-      "2021-11-26": 1
+      "2021-11-26": 13
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$URL_OFFICE",
     "icon": "https://raw.githubusercontent.com/tsueri/upptime/master/assets/paper.png",
     "slug": "online-document-editor",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 727,
-    "timeDay": 741,
-    "timeWeek": 727,
-    "timeMonth": 727,
-    "timeYear": 727,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 726,
+    "timeDay": 712,
+    "timeWeek": 726,
+    "timeMonth": 726,
+    "timeYear": 726,
     "dailyMinutesDown": {
-      "2021-11-26": 0
+      "2021-11-26": 13
     }
   },
   {
