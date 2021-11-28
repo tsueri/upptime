@@ -19,18 +19,19 @@ sites:
     icon: https://raw.githubusercontent.com/tsueri/upptime/master/assets/globe.png
   - name: DNS 1
     check: "tcp-ping"
-    port: 53
+    port: 80
     url: $URL_DNS1
     icon: https://raw.githubusercontent.com/tsueri/upptime/master/assets/compass.png
   - name: DNS 2
     check: "tcp-ping"
-    port: 53
+    port: 80
     url: $URL_DNS2
     icon: https://raw.githubusercontent.com/tsueri/upptime/master/assets/compass.png
 status-website:
   cname: status.campa.tools
   logoUrl: https://raw.githubusercontent.com/tsueri/upptime/master/assets/logo-tsueri-grey.svg
   faviconSvg: https://raw.githubusercontent.com/tsueri/upptime/master/assets/logo-tsueri-grey.svg
+  theme: dark
   name: Statuspage by tsueri
   introTitle: "Check the status of all **campa.tools** Services."
   introMessage: "Updates to unplanned downtime [can be found here](https://github.com/tsueri/upptime/issues)."
