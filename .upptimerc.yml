@@ -19,12 +19,10 @@ sites:
     icon: https://raw.githubusercontent.com/tsueri/upptime/master/assets/globe.png
   - name: DNS 1
     check: "tcp-ping"
-    port: 80
     url: $URL_DNS1
     icon: https://raw.githubusercontent.com/tsueri/upptime/master/assets/compass.png
   - name: DNS 2
     check: "tcp-ping"
-    port: 80
     url: $URL_DNS2
     icon: https://raw.githubusercontent.com/tsueri/upptime/master/assets/compass.png
 status-website:
