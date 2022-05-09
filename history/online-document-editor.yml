@@ -1,7 +1,7 @@
 url: $URL_OFFICE
-status: down
-code: 502
-responseTime: 671
-lastUpdated: 2022-05-09T20:46:00.901Z
+status: up
+code: 200
+responseTime: 722
+lastUpdated: 2022-05-09T20:57:01.009Z
 startTime: Fri Nov 19 2021 13:52:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
