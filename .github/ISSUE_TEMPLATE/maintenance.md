@@ -3,7 +3,9 @@ name: Wartungsfenster
 about: Neues Wartungsfenster planen
 title: ''
 labels: 'maintenance'
-assingees: tsueri
+assignees:
+  - tsueri
+
 
 
 ---
