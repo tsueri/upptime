@@ -22,11 +22,6 @@ sites:
     url: $URL_DNS1
     port: 53
     icon: https://raw.githubusercontent.com/tsueri/upptime/master/assets/compass.png
-  - name: DNS 2
-    check: "tcp-ping"
-    url: $URL_DNS2
-    port: 53
-    icon: https://raw.githubusercontent.com/tsueri/upptime/master/assets/compass.png
 status-website:
   cname: status.campa.tools
   logoUrl: https://raw.githubusercontent.com/tsueri/upptime/master/assets/logo-tsueri-grey.svg
