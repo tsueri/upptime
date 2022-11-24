@@ -7,8 +7,14 @@ sites:
     icon: https://raw.githubusercontent.com/tsueri/upptime/master/assets/cloud.png
   - name: Online Document Editor
     url: $URL_OFFICE
+    headers:
+    - "Authorization: Bearer $AUTH_OFFICE"
     __dangerous__body_down: "false"
     icon: https://raw.githubusercontent.com/tsueri/upptime/master/assets/paper.png
+  - name: social.tsueri.cloud (Mastodon)
+    url: https://social.tsueri.cloud/health
+    icon: https://raw.githubusercontent.com/tsueri/upptime/master/assets/Mastodon_Logotype_(Simple).svg
+    __dangerous__body_down_if_text_missing: '"OK"'
   - name: Mailserver
     url: email.campa.tools
     icon: https://raw.githubusercontent.com/tsueri/upptime/master/assets/e-mail.png
