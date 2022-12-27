@@ -71,9 +71,9 @@
     "url": "https://social.tsueri.cloud/health",
     "icon": "https://raw.githubusercontent.com/tsueri/upptime/master/assets/Mastodon_Logotype_(Simple).svg",
     "slug": "social-tsueri-cloud-mastodon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.56%",
@@ -83,6 +83,7 @@
     "timeMonth": 1076,
     "timeYear": 1066,
     "dailyMinutesDown": {
+      "2022-12-27": 0,
       "2022-12-07": 22,
       "2022-12-06": 185
     }
@@ -140,7 +141,7 @@
     "icon": "https://raw.githubusercontent.com/tsueri/upptime/master/assets/compass.png",
     "slug": "dns-1",
     "status": "up",
-    "uptime": "98.16%",
+    "uptime": "98.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
