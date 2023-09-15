@@ -1,7 +1,7 @@
 url: https://tsueri.cloud
-status: up
-code: 200
-responseTime: 1131
-lastUpdated: 2023-09-14T23:13:58.061Z
+status: down
+code: 503
+responseTime: 1041
+lastUpdated: 2023-09-15T10:55:54.564Z
 startTime: 2021-11-19T13:33:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
