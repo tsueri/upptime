@@ -21,7 +21,7 @@ sites:
     check: "tcp-ping"
     port: 25
   - name: Webserver
-    url: https://web.campa.tools
+    url: https://web2.campa.tools
     icon: https://raw.githubusercontent.com/tsueri/upptime/master/assets/globe.png
   - name: DNS 1
     check: "tcp-ping"
