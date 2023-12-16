@@ -105,11 +105,11 @@
     "url": "email.campa.tools",
     "icon": "https://raw.githubusercontent.com/tsueri/upptime/master/assets/e-mail.png",
     "slug": "mailserver",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 184,
     "timeDay": 205,
@@ -117,7 +117,7 @@
     "timeMonth": 159,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2023-12-16": 0,
+      "2023-12-16": 21,
       "2023-03-03": 17,
       "2023-01-25": 22
     }
@@ -150,7 +150,7 @@
     "icon": "https://raw.githubusercontent.com/tsueri/upptime/master/assets/compass.png",
     "slug": "dns-1",
     "status": "up",
-    "uptime": "93.75%",
+    "uptime": "93.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
