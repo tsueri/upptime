@@ -76,7 +76,7 @@
     "timeDay": 774,
     "timeWeek": 974,
     "timeMonth": 1151,
-    "timeYear": 1021,
+    "timeYear": 1020,
     "dailyMinutesDown": {
       "2024-02-11": 22,
       "2023-11-15": 402,
@@ -121,9 +121,9 @@
     "url": "https://web2.campa.tools",
     "icon": "https://raw.githubusercontent.com/tsueri/upptime/master/assets/globe.png",
     "slug": "webserver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -133,6 +133,7 @@
     "timeMonth": 1365,
     "timeYear": 1445,
     "dailyMinutesDown": {
+      "2024-03-17": 0,
       "2023-06-09": 19
     }
   },
@@ -141,9 +142,9 @@
     "url": "$URL_DNS1",
     "icon": "https://raw.githubusercontent.com/tsueri/upptime/master/assets/compass.png",
     "slug": "dns-1",
-    "status": "up",
-    "uptime": "94.43%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "94.44%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "89.12%",
@@ -153,6 +154,7 @@
     "timeMonth": 119,
     "timeYear": 117,
     "dailyMinutesDown": {
+      "2024-03-17": 0,
       "2023-09-29": 889,
       "2023-09-28": 1440,
       "2023-09-27": 1440,
