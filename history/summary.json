@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
-    "time": 1195,
-    "timeDay": 1360,
-    "timeWeek": 1010,
-    "timeMonth": 1145,
+    "time": 1194,
+    "timeDay": 1141,
+    "timeWeek": 1027,
+    "timeMonth": 1152,
     "timeYear": 1199,
     "dailyMinutesDown": {
       "2024-02-11": 23,
@@ -27,8 +27,7 @@
       "2023-07-12": 121,
       "2023-07-11": 91,
       "2023-06-26": 20,
-      "2023-06-18": 441,
-      "2023-04-26": 51
+      "2023-06-18": 441
     }
   },
   {
@@ -42,10 +41,10 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.67%",
-    "time": 1128,
-    "timeDay": 996,
-    "timeWeek": 1865,
-    "timeMonth": 1288,
+    "time": 1127,
+    "timeDay": 946,
+    "timeWeek": 1855,
+    "timeMonth": 1285,
     "timeYear": 1076,
     "dailyMinutesDown": {
       "2024-04-19": 16,
@@ -58,8 +57,7 @@
       "2023-07-12": 121,
       "2023-07-11": 90,
       "2023-06-26": 20,
-      "2023-06-18": 441,
-      "2023-04-26": 51
+      "2023-06-18": 441
     }
   },
   {
@@ -74,10 +72,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.76%",
     "time": 1028,
-    "timeDay": 1102,
-    "timeWeek": 975,
-    "timeMonth": 987,
-    "timeYear": 1026,
+    "timeDay": 895,
+    "timeWeek": 971,
+    "timeMonth": 990,
+    "timeYear": 1025,
     "dailyMinutesDown": {
       "2024-02-11": 22,
       "2023-11-15": 402,
@@ -91,8 +89,7 @@
       "2023-06-18": 440,
       "2023-05-20": 1326,
       "2023-05-19": 1440,
-      "2023-05-18": 288,
-      "2023-04-26": 50
+      "2023-05-18": 288
     }
   },
   {
@@ -107,9 +104,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 161,
-    "timeDay": 140,
-    "timeWeek": 113,
-    "timeMonth": 118,
+    "timeDay": 122,
+    "timeWeek": 115,
+    "timeMonth": 119,
     "timeYear": 154,
     "dailyMinutesDown": {
       "2024-02-02": 20,
@@ -127,11 +124,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1326,
-    "timeDay": 1436,
-    "timeWeek": 1366,
-    "timeMonth": 1369,
-    "timeYear": 1514,
+    "time": 1327,
+    "timeDay": 1568,
+    "timeWeek": 1353,
+    "timeMonth": 1384,
+    "timeYear": 1516,
     "dailyMinutesDown": {
       "2023-06-09": 19
     }
@@ -142,15 +139,15 @@
     "icon": "https://raw.githubusercontent.com/tsueri/upptime/master/assets/compass.png",
     "slug": "dns-1",
     "status": "up",
-    "uptime": "94.67%",
+    "uptime": "94.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "89.12%",
     "time": 118,
-    "timeDay": 141,
+    "timeDay": 112,
     "timeWeek": 114,
-    "timeMonth": 119,
+    "timeMonth": 120,
     "timeYear": 117,
     "dailyMinutesDown": {
       "2023-09-29": 889,
