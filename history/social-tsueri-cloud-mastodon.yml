@@ -1,7 +1,7 @@
 url: https://social.tsueri.cloud/health
-status: down
-code: 502
-responseTime: 875
-lastUpdated: 2024-05-31T23:15:47.897Z
+status: up
+code: 200
+responseTime: 1029
+lastUpdated: 2024-05-31T23:36:06.443Z
 startTime: 2022-11-24T13:32:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
