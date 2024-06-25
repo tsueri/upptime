@@ -6,15 +6,15 @@
     "slug": "tsueri-cloud",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "98.93%",
-    "uptimeWeek": "96.24%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
     "uptimeMonth": "97.71%",
     "uptimeYear": "99.21%",
     "time": 1171,
-    "timeDay": 1164,
-    "timeWeek": 1062,
-    "timeMonth": 1080,
-    "timeYear": 1166,
+    "timeDay": 1070,
+    "timeWeek": 1109,
+    "timeMonth": 1081,
+    "timeYear": 1164,
     "dailyMinutesDown": {
       "2024-06-23": 15,
       "2024-06-17": 398,
@@ -36,8 +36,7 @@
       "2023-09-15": 16,
       "2023-07-13": 433,
       "2023-07-12": 121,
-      "2023-07-11": 91,
-      "2023-06-26": 20
+      "2023-07-11": 91
     }
   },
   {
@@ -51,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.70%",
-    "time": 1134,
-    "timeDay": 864,
-    "timeWeek": 1083,
-    "timeMonth": 1016,
-    "timeYear": 1093,
+    "time": 1132,
+    "timeDay": 862,
+    "timeWeek": 1040,
+    "timeMonth": 1020,
+    "timeYear": 1091,
     "dailyMinutesDown": {
       "2024-06-16": 195,
       "2024-04-27": 148,
@@ -67,8 +66,7 @@
       "2023-11-14": 91,
       "2023-07-13": 433,
       "2023-07-12": 121,
-      "2023-07-11": 90,
-      "2023-06-26": 20
+      "2023-07-11": 90
     }
   },
   {
@@ -77,18 +75,19 @@
     "icon": "https://raw.githubusercontent.com/tsueri/upptime/master/assets/Mastodon_Logotype_(Simple).svg",
     "slug": "social-tsueri-cloud-mastodon",
     "status": "down",
-    "uptime": "98.37%",
-    "uptimeDay": "81.57%",
-    "uptimeWeek": "91.86%",
-    "uptimeMonth": "95.74%",
-    "uptimeYear": "98.27%",
-    "time": 1003,
-    "timeDay": 749,
-    "timeWeek": 867,
-    "timeMonth": 824,
-    "timeYear": 999,
+    "uptime": "98.20%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "83.10%",
+    "uptimeMonth": "92.45%",
+    "uptimeYear": "97.99%",
+    "time": 1002,
+    "timeDay": 706,
+    "timeWeek": 877,
+    "timeMonth": 823,
+    "timeYear": 998,
     "dailyMinutesDown": {
-      "2024-06-24": 34,
+      "2024-06-25": 33,
+      "2024-06-24": 1440,
       "2024-06-23": 231,
       "2024-06-17": 589,
       "2024-06-16": 947,
@@ -105,8 +104,7 @@
       "2023-09-19": 530,
       "2023-07-13": 433,
       "2023-07-12": 120,
-      "2023-07-11": 90,
-      "2023-06-26": 19
+      "2023-07-11": 90
     }
   },
   {
@@ -121,10 +119,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 152,
-    "timeDay": 139,
-    "timeWeek": 120,
-    "timeMonth": 116,
-    "timeYear": 143,
+    "timeDay": 89,
+    "timeWeek": 117,
+    "timeMonth": 115,
+    "timeYear": 142,
     "dailyMinutesDown": {
       "2024-02-02": 20,
       "2023-12-16": 42
@@ -141,11 +139,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1394,
-    "timeDay": 1434,
-    "timeWeek": 1432,
-    "timeMonth": 1329,
-    "timeYear": 1447,
+    "time": 1393,
+    "timeDay": 1024,
+    "timeWeek": 1336,
+    "timeMonth": 1324,
+    "timeYear": 1444,
     "dailyMinutesDown": {}
   },
   {
@@ -160,9 +158,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "89.12%",
     "time": 117,
-    "timeDay": 138,
-    "timeWeek": 120,
-    "timeMonth": 117,
+    "timeDay": 90,
+    "timeWeek": 117,
+    "timeMonth": 116,
     "timeYear": 117,
     "dailyMinutesDown": {
       "2023-09-29": 889,
