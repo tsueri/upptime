@@ -76,7 +76,7 @@
     "slug": "social-tsueri-cloud-mastodon",
     "status": "up",
     "uptime": "97.81%",
-    "uptimeDay": "0.02%",
+    "uptimeDay": "34.98%",
     "uptimeWeek": "49.78%",
     "uptimeMonth": "84.79%",
     "uptimeYear": "97.36%",
@@ -114,9 +114,9 @@
     "url": "email.campa.tools",
     "icon": "https://raw.githubusercontent.com/tsueri/upptime/master/assets/e-mail.png",
     "slug": "mailserver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -126,6 +126,7 @@
     "timeMonth": 116,
     "timeYear": 142,
     "dailyMinutesDown": {
+      "2024-06-27": 0,
       "2024-02-02": 20,
       "2023-12-16": 42
     }
@@ -154,7 +155,7 @@
     "icon": "https://raw.githubusercontent.com/tsueri/upptime/master/assets/compass.png",
     "slug": "dns-1",
     "status": "up",
-    "uptime": "95.03%",
+    "uptime": "95.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
