@@ -11,9 +11,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.32%",
     "time": 1203,
-    "timeDay": 1169,
-    "timeWeek": 1278,
-    "timeMonth": 1292,
+    "timeDay": 1164,
+    "timeWeek": 1224,
+    "timeMonth": 1291,
     "timeYear": 1206,
     "dailyMinutesDown": {
       "2024-08-17": 22,
@@ -50,10 +50,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 1106,
-    "timeDay": 904,
-    "timeWeek": 1174,
-    "timeMonth": 1124,
+    "time": 1107,
+    "timeDay": 1139,
+    "timeWeek": 1115,
+    "timeMonth": 1120,
     "timeYear": 1124,
     "dailyMinutesDown": {
       "2024-06-16": 195,
@@ -78,9 +78,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.46%",
     "time": 979,
-    "timeDay": 1061,
-    "timeWeek": 983,
-    "timeMonth": 897,
+    "timeDay": 963,
+    "timeWeek": 910,
+    "timeMonth": 900,
     "timeYear": 975,
     "dailyMinutesDown": {
       "2024-07-24": 79,
@@ -116,8 +116,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 144,
-    "timeDay": 113,
-    "timeWeek": 119,
+    "timeDay": 110,
+    "timeWeek": 111,
     "timeMonth": 119,
     "timeYear": 133,
     "dailyMinutesDown": {
@@ -137,11 +137,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1481,
-    "timeDay": 1231,
-    "timeWeek": 1392,
+    "time": 1482,
+    "timeDay": 1208,
+    "timeWeek": 1287,
     "timeMonth": 1430,
-    "timeYear": 1397,
+    "timeYear": 1396,
     "dailyMinutesDown": {}
   },
   {
@@ -150,14 +150,14 @@
     "icon": "https://raw.githubusercontent.com/tsueri/upptime/master/assets/compass.png",
     "slug": "dns-1",
     "status": "up",
-    "uptime": "95.32%",
+    "uptime": "95.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.25%",
+    "uptimeYear": "90.52%",
     "time": 117,
-    "timeDay": 110,
-    "timeWeek": 117,
+    "timeDay": 112,
+    "timeWeek": 110,
     "timeMonth": 118,
     "timeYear": 117,
     "dailyMinutesDown": {
@@ -193,8 +193,7 @@
       "2023-08-31": 1440,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
-      "2023-08-28": 1440,
-      "2023-08-27": 1440
+      "2023-08-28": 1440
     }
   }
 ]
