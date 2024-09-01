@@ -11,10 +11,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.32%",
     "time": 1210,
-    "timeDay": 1034,
-    "timeWeek": 1770,
-    "timeMonth": 1359,
-    "timeYear": 1216,
+    "timeDay": 1497,
+    "timeWeek": 1817,
+    "timeMonth": 1364,
+    "timeYear": 1217,
     "dailyMinutesDown": {
       "2024-08-17": 22,
       "2024-07-23": 20,
@@ -50,9 +50,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 1118,
-    "timeDay": 995,
-    "timeWeek": 1142,
+    "time": 1117,
+    "timeDay": 1002,
+    "timeWeek": 1156,
     "timeMonth": 1102,
     "timeYear": 1126,
     "dailyMinutesDown": {
@@ -78,9 +78,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.46%",
     "time": 979,
-    "timeDay": 771,
-    "timeWeek": 932,
-    "timeMonth": 885,
+    "timeDay": 752,
+    "timeWeek": 888,
+    "timeMonth": 871,
     "timeYear": 975,
     "dailyMinutesDown": {
       "2024-07-24": 79,
@@ -118,7 +118,7 @@
     "time": 143,
     "timeDay": 109,
     "timeWeek": 121,
-    "timeMonth": 120,
+    "timeMonth": 119,
     "timeYear": 132,
     "dailyMinutesDown": {
       "2024-06-27": 21,
@@ -137,11 +137,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1491,
-    "timeDay": 1530,
-    "timeWeek": 1451,
-    "timeMonth": 1422,
-    "timeYear": 1399,
+    "time": 1493,
+    "timeDay": 1386,
+    "timeWeek": 1473,
+    "timeMonth": 1413,
+    "timeYear": 1398,
     "dailyMinutesDown": {}
   },
   {
@@ -150,15 +150,15 @@
     "icon": "https://raw.githubusercontent.com/tsueri/upptime/master/assets/compass.png",
     "slug": "dns-1",
     "status": "up",
-    "uptime": "95.35%",
+    "uptime": "95.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.89%",
+    "uptimeYear": "92.17%",
     "time": 117,
     "timeDay": 110,
     "timeWeek": 122,
-    "timeMonth": 120,
+    "timeMonth": 118,
     "timeYear": 117,
     "dailyMinutesDown": {
       "2023-09-29": 889,
@@ -187,8 +187,7 @@
       "2023-09-06": 1440,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
-      "2023-09-03": 1440,
-      "2023-09-02": 1440
+      "2023-09-03": 1440
     }
   }
 ]
