@@ -13,7 +13,7 @@ sites:
     icon: https://raw.githubusercontent.com/tsueri/upptime/master/assets/paper.png
   - name: finkencloud
     url: https://cloud.wohnfink.ch
-    icon: https://wohnfink.ch/wp-content/uploads/2024/09/logo-de-fr.webp
+    icon: https://raw.githubusercontent.com/tsueri/upptime/master/assets/cloud.png
   - name: social.tsueri.cloud (Mastodon)
     url: https://social.tsueri.cloud/health
     icon: https://raw.githubusercontent.com/tsueri/upptime/master/assets/Mastodon_Logotype_(Simple).svg
