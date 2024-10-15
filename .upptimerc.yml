@@ -11,6 +11,9 @@ sites:
     - "Authorization: Basic $AUTH_OFFICE"
     - "Content-Type: text/html"
     icon: https://raw.githubusercontent.com/tsueri/upptime/master/assets/paper.png
+  - name: finkencloud
+    url: https://cloud.wohnfink.ch
+    icon: https://wohnfink.ch/wp-content/uploads/2024/09/logo-de-fr.webp
   - name: social.tsueri.cloud (Mastodon)
     url: https://social.tsueri.cloud/health
     icon: https://raw.githubusercontent.com/tsueri/upptime/master/assets/Mastodon_Logotype_(Simple).svg
@@ -20,6 +23,11 @@ sites:
     icon: https://raw.githubusercontent.com/tsueri/upptime/master/assets/e-mail.png
     check: "tcp-ping"
     port: 25
+  - name: Portal
+    url: https://portal.campa.tools
+  - name: bitwarden
+    url: https://bitwarden.tsueri.cloud
+    icon: https://raw.githubusercontent.com/tsueri/upptime/master/assets/bitwarden.svg
   - name: Webserver
     url: https://web2.campa.tools
     icon: https://raw.githubusercontent.com/tsueri/upptime/master/assets/globe.png
@@ -34,7 +42,7 @@ status-website:
   faviconSvg: https://raw.githubusercontent.com/tsueri/upptime/master/assets/logo-tsueri-grey.svg
   theme: night
   name: Statuspage by tsueri
-  introTitle: "Check the status of all **campa.tools** Services."
+  introTitle: "Check the status of all **campa.tools** services."
   introMessage: "Updates to unplanned downtime [can be found here](https://github.com/tsueri/upptime/issues)."
   navbar:
     - title: Status
