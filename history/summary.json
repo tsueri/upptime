@@ -13,8 +13,8 @@
     "time": 1214,
     "timeDay": 1574,
     "timeWeek": 1603,
-    "timeMonth": 1249,
-    "timeYear": 1214,
+    "timeMonth": 1268,
+    "timeYear": 1213,
     "dailyMinutesDown": {
       "2024-07-23": 20,
       "2024-07-14": 48,
@@ -45,11 +45,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.85%",
+    "uptimeYear": "99.92%",
     "time": 1097,
     "timeDay": 1368,
     "timeWeek": 1119,
-    "timeMonth": 940,
+    "timeMonth": 954,
     "timeYear": 1120,
     "dailyMinutesDown": {
       "2024-06-16": 195,
@@ -74,7 +74,7 @@
     "time": 1136,
     "timeDay": 1284,
     "timeWeek": 1205,
-    "timeMonth": 1136,
+    "timeMonth": 1145,
     "timeYear": 1136,
     "dailyMinutesDown": {}
   },
@@ -88,12 +88,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.83%",
+    "uptimeYear": "97.90%",
     "time": 956,
     "timeDay": 866,
     "timeWeek": 749,
-    "timeMonth": 781,
-    "timeYear": 948,
+    "timeMonth": 790,
+    "timeYear": 949,
     "dailyMinutesDown": {
       "2024-07-24": 79,
       "2024-06-27": 511,
@@ -126,7 +126,7 @@
     "time": 132,
     "timeDay": 162,
     "timeWeek": 130,
-    "timeMonth": 112,
+    "timeMonth": 113,
     "timeYear": 119,
     "dailyMinutesDown": {
       "2024-06-27": 21,
@@ -148,7 +148,7 @@
     "time": 1043,
     "timeDay": 1210,
     "timeWeek": 1103,
-    "timeMonth": 1043,
+    "timeMonth": 1056,
     "timeYear": 1043,
     "dailyMinutesDown": {}
   },
@@ -166,7 +166,7 @@
     "time": 729,
     "timeDay": 854,
     "timeWeek": 803,
-    "timeMonth": 729,
+    "timeMonth": 733,
     "timeYear": 729,
     "dailyMinutesDown": {}
   },
@@ -175,18 +175,20 @@
     "url": "https://web2.campa.tools",
     "icon": "https://raw.githubusercontent.com/tsueri/upptime/master/assets/globe.png",
     "slug": "webserver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1377,
     "timeDay": 721,
     "timeWeek": 690,
-    "timeMonth": 694,
+    "timeMonth": 655,
     "timeYear": 1342,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-15": 0
+    }
   },
   {
     "name": "DNS 1",
@@ -202,7 +204,7 @@
     "time": 116,
     "timeDay": 163,
     "timeWeek": 131,
-    "timeMonth": 113,
+    "timeMonth": 114,
     "timeYear": 116,
     "dailyMinutesDown": {}
   }
