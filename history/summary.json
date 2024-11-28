@@ -184,18 +184,19 @@
     "url": "https://web2.campa.tools",
     "icon": "https://raw.githubusercontent.com/tsueri/upptime/master/assets/globe.png",
     "slug": "webserver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 1349,
+    "time": 1346,
     "timeDay": 454,
     "timeWeek": 697,
     "timeMonth": 668,
     "timeYear": 1318,
     "dailyMinutesDown": {
+      "2024-11-28": 0,
       "2024-11-15": 34
     }
   },
