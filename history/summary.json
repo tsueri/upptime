@@ -4,17 +4,17 @@
     "url": "https://tsueri.cloud",
     "icon": "https://raw.githubusercontent.com/tsueri/upptime/master/assets/cloud.png",
     "slug": "tsueri-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.64%",
     "time": 1248,
-    "timeDay": 1314,
-    "timeWeek": 1570,
-    "timeMonth": 1449,
-    "timeYear": 1249,
+    "timeDay": 988,
+    "timeWeek": 1457,
+    "timeMonth": 1423,
+    "timeYear": 1248,
     "dailyMinutesDown": {
       "2024-12-05": 31,
       "2024-11-20": 48,
@@ -50,7 +50,7 @@
     "time": 1108,
     "timeDay": 1952,
     "timeWeek": 1078,
-    "timeMonth": 1140,
+    "timeMonth": 1151,
     "timeYear": 1135,
     "dailyMinutesDown": {
       "2024-12-12": 19,
@@ -76,8 +76,8 @@
     "uptimeYear": "99.96%",
     "time": 1232,
     "timeDay": 1501,
-    "timeWeek": 1182,
-    "timeMonth": 1347,
+    "timeWeek": 1226,
+    "timeMonth": 1323,
     "timeYear": 1232,
     "dailyMinutesDown": {
       "2024-11-20": 47
@@ -89,7 +89,7 @@
     "icon": "https://raw.githubusercontent.com/tsueri/upptime/master/assets/Mastodon_Logotype_(Simple).svg",
     "slug": "social-tsueri-cloud-mastodon",
     "status": "up",
-    "uptime": "98.32%",
+    "uptime": "98.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -97,7 +97,7 @@
     "time": 935,
     "timeDay": 782,
     "timeWeek": 821,
-    "timeMonth": 789,
+    "timeMonth": 797,
     "timeYear": 891,
     "dailyMinutesDown": {
       "2024-11-20": 47,
@@ -153,7 +153,7 @@
     "time": 1098,
     "timeDay": 1044,
     "timeWeek": 1023,
-    "timeMonth": 1141,
+    "timeMonth": 1137,
     "timeYear": 1098,
     "dailyMinutesDown": {
       "2024-11-20": 46
@@ -173,7 +173,7 @@
     "time": 749,
     "timeDay": 629,
     "timeWeek": 747,
-    "timeMonth": 747,
+    "timeMonth": 749,
     "timeYear": 749,
     "dailyMinutesDown": {
       "2024-11-20": 46
@@ -206,7 +206,7 @@
     "icon": "https://raw.githubusercontent.com/tsueri/upptime/master/assets/compass.png",
     "slug": "dns-1",
     "status": "up",
-    "uptime": "95.84%",
+    "uptime": "95.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
